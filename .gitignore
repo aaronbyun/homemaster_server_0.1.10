@@ -1,0 +1,11 @@
+*.pyc
+.DS_Store
+.DS_Store?
+*.sublime-project
+*.sublime-workspace
+*.log
+secrets.py
+stipulation_text.py
+*.sql
+*.sh
+

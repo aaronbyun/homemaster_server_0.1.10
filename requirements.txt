@@ -1,0 +1,12 @@
+requests
+sqlalchemy
+tornado
+pymongo
+unittest2
+redis
+mysql-python
+python-gcm
+log4mongo
+mixpanel
+googlemaps
+pyCrypto
